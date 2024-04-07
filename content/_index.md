@@ -173,6 +173,20 @@ sections:
           description: |2-
               * Project: Understanding the neighbourhood's pedestrian dynamic with computer vision-based walkability and street network analytics.
               * Supervisors: Dr. Filip Biljecki
+        - title: Assistant-in-Opleiding (AiO)
+          company: University of Twente
+          company_url: ''
+        #  company_logo: org-x
+          location: Enschede
+          date_start: '2020-01-01'
+          date_end: '2023-12-31'
+          description: |2-
+              Teaching Assisstant:
+
+              * 202001419-1A Course 1: GIS and RS or Geospatial Solutions, 2021,2022
+              * 202001419-1A Course 2: Geospatial Data: Concepts, Acquisition and Management, 2020-2023
+              * 202001419-1A Course 3: Geospatial Analysis and Interpretation, 2020-2023
+              * HTHT GIS Minor, 2020
         - title: UI/UX Designer
           company: Sea Group
           company_url: ''
