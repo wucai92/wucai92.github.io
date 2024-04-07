@@ -23,6 +23,8 @@ role: PhD Candidate
 organizations:
   - name: ITC, University of Twente
     url: https://www.itc.nl/
+  - name: UAL, National University of Singapore
+    url: https://www.ual.sg/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
