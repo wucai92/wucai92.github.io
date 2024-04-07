@@ -181,7 +181,7 @@ sections:
           date_start: '2020-01-01'
           date_end: '2023-12-31'
           description: |2-
-              Teaching Assisstant:
+              Teaching Assistant:
 
               * 202001419-1A Course 1: GIS and RS or Geospatial Solutions, 2021,2022
               * 202001419-1A Course 2: Geospatial Data: Concepts, Acquisition and Management, 2020-2023
