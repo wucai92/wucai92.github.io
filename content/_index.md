@@ -139,16 +139,16 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
+#  - block: collection
+#    id: talks
+#    content:
+#      title: Recent & Upcoming Talks
+#      filters:
+#        folders:
+#          - event
+#    design:
+#      columns: '2'
+#      view: compact
 
   - block: experience
     content:
@@ -243,15 +243,15 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
+#  - block: contact
+#    id: contact
+#    content:
+#      title: Contact
+#      subtitle:
 #      text: |-
 #        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: ivan6505@gmail.com
+#      email: ivan6505@gmail.com
 #      phone: 888 888 88 88
 #      appointment_url: 'https://calendly.com'
 #      address:
@@ -292,6 +292,6 @@ sections:
  #       netlify:
           # Enable CAPTCHA challenge to reduce spam?
 #          captcha: false
-    design:
-      columns: '2'
+#    design:
+#      columns: '2'
 ---

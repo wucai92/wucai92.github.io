@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cai Wu
+title: Cai Wu(吴偲)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -22,7 +22,7 @@ role: PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: ITC, University of Twente
-    url: https://www.stanford.edu/
+    url: https://www.itc.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candiate in Urban Analytics
+    - course: PhD in Urban Analytics and Planning
       institution: University of Twente, Netherlands
       year: 2024
     - course: MSc in Smart Cities and Urban Analytics
