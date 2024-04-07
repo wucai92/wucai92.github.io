@@ -32,12 +32,12 @@ interests:
   - Urban Morphology
   - Street Network
   - Urban Big Data
-  - GIS and Machine Learning Application
+  - GIS and Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candiate in Urban Analytics and Planning
+    - course: PhD Candiate in Urban Analytics
       institution: University of Twente, Netherlands
       year: 2024
     - course: MSc in Smart Cities and Urban Analytics
