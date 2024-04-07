@@ -2,9 +2,9 @@
 title: 'Urban spatial structure from a street network perspective: mapping street
   patterns with random forest classification'
 authors:
-- Cai Wu
+- admin
 - Jiong Wang
-- M. J. Kraak
+- Menno-Jan Kraak
 date: '2023-07-01'
 publishDate: '2024-04-07T10:54:42.876652Z'
 publication_types:

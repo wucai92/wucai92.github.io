@@ -1,7 +1,7 @@
 ---
 title: Mapping Street Patterns with Network Science and Supervised Machine Learning
 authors:
-- Cai Wu
+- admin
 - Yanwen Wang
 - Jiong Wang
 - Menno-Jan Kraak

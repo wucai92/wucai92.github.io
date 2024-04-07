@@ -4,7 +4,7 @@ title: Identifying Urban Functional Regions from High-Resolution Satellite Image
 authors:
 - Wufan Zhao
 - Mengmeng Li
-- Cai Wu
+- admin
 - Wen Zhou
 - Guozhong Chu
 date: '2022-08-01'

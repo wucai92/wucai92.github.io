@@ -2,7 +2,7 @@
 title: Machine learning-based characterisation of urban morphology with the street
   pattern
 authors:
-- Cai Wu
+- admin
 - Jiong Wang
 - Mingshu Wang
 - Menno-Jan Kraak

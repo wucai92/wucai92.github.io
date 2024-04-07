@@ -2,7 +2,7 @@
 title: 'Simulating the urban spatial structure with spatial interaction: A case study
   of urban polycentricity under different scenarios'
 authors:
-- Cai Wu
+- admin
 - Duncan Smith
 - Mingshu Wang
 date: '2021-01-01'
