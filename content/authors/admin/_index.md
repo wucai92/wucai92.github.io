@@ -127,5 +127,5 @@ social:
 highlight_name: true
 ---
 
-Wu Cai is a PhD candidate from ITC, University of Twente. With a background in architecture, urban analytics and GIS, his research aims to quantify urban morphological patterns across scales using machine learning. This encompasses analysis from vast metropolitan areas down to detailed urban plots. The goal is to explore the potential applications of these quantitative urban forms in planning and design, with a particular emphasis on integrating dynamic data such as urban mobility.
+Cai Wu is a PhD candidate from ITC, University of Twente. With a background in architecture, urban analytics and GIS, his research aims to quantify urban morphological patterns across scales using machine learning. This encompasses analysis from vast metropolitan areas down to detailed urban plots. The goal is to explore the potential applications of these quantitative urban forms in planning and design, with a particular emphasis on integrating dynamic data such as urban mobility.
 {style="text-align: justify;"}

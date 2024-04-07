@@ -171,6 +171,7 @@ sections:
           date_start: '2024-01-01'
           date_end: ''
           description: |2-
+
               *Project: Understanding the neighbourhood's pedestrian dynamic with computer vision-based walkability and street network analytics.
               *Supervisors: Dr. Filip Biljecki
         - title: UI/UX Designer
@@ -181,6 +182,7 @@ sections:
           date_start: '2016-12-01'
           date_end: '2018-06-01'
           description: |2-
+
               *Transform product requirements into mock-ups and solid UI/UX design.
               *Design data visualisation platform for restaurants' daily performance and backend operation analysis.
         - title: Intern Urban Designer
@@ -191,6 +193,7 @@ sections:
           date_start: '2015-05-01'
           date_end: '2015-08-01'
           description: |2-
+
               *Comprehensive concept and field research for an urban design project in Beijing. 
               *Concept design and modelling for polit development.
     design:
