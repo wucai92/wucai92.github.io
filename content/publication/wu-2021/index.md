@@ -11,9 +11,7 @@ publication_types:
 - article-journal
 publication: '*Computers, Environment and Urban Systems*'
 doi: 10.1016/j.compenvurbsys.2021.101677
-abstract: 'A R T I C L E I N F O Keywords: Urban polycentricity Dynamic urban spatial
-  structure Spatial interaction Community detection Urban simulation A B S T R A C
-  T Polycentric urban development is gaining momentum in both scholarly research and
+abstract: 'Polycentric urban development is gaining momentum in both scholarly research and
   real-life practice. This brings new demand for planning support systems to simulate
   and analyse the urban spatial structure in terms of polycentricity under various
   urban policy scenarios. With the help of emerging urban data, urban simulation techniques,
