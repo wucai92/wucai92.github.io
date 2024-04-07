@@ -29,6 +29,7 @@ abstract: 'A R T I C L E I N F O Keywords: Urban polycentricity Dynamic urban sp
   evidence, our workflow exemplifies the potential of the planning support system
   to help urban planners and governments understand their urban policy regarding urban
   polycentricity.'
+featured: true
 links:
 - name: URL
   url: http://creativecommons.org/licenses/by/4.0/

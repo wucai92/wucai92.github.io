@@ -12,6 +12,7 @@ publication_types:
 - article-journal
 publication: '*Computers, Environment and Urban Systems*'
 doi: 10.1016/J.COMPENVURBSYS.2024.102078
+featured: true
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0198971524000073
