@@ -1,5 +1,5 @@
 ---
-title: [17/03/2024]New paper published on Computers, Environment and Urban Systems!
+title: New paper published on Computers, Environment and Urban Systems!
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
