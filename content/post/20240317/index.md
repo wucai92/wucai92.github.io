@@ -9,7 +9,7 @@ title: [17/03/2024]New paper published on Computers, Environment and Urban Syste
 projects: []
 
 # Date published
-date: '2024-01-01T00:00:00Z'
+date: '2024-03-17T00:00:00Z'
 
 # Date updated
 #lastmod: '2020-12-13T00:00:00Z'
