@@ -52,33 +52,33 @@ sections:
 #      columns: '1'
   
  
-#  - block: collection
-#    id: posts
-#    content:
-#      title: Recent Posts
-#      subtitle: ''
-#      text: ''
-#      # Choose how many pages you would like to display (0 = all pages)
-#      count: 5
-#      # Filter on criteria
-#      filters:
-#        folders:
-#          - post
-#        author: ""
-#        category: ""
-#        tag: ""
-#        exclude_featured: false
-#        exclude_future: false
-#        exclude_past: false
-#        publication_type: ""
+  - block: collection
+    id: news
+    content:
+      title: News
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
       # Choose how many pages you would like to offset by
-#      offset: 0
+      offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-#      order: desc
-#    design:
+      order: desc
+    design:
       # Choose a layout view
-#      view: compact
-#      columns: '2'
+      view: list
+      columns: '2'
 #  - block: portfolio
 #    id: projects
 #    content:
@@ -183,10 +183,10 @@ sections:
           description: |2-
               Teaching Assistant:
 
-              * 202001419-1A Course 1: GIS and RS or Geospatial Solutions, 2021,2022
-              * 202001419-1A Course 2: Geospatial Data: Concepts, Acquisition and Management, 2020-2023
-              * 202001419-1A Course 3: Geospatial Analysis and Interpretation, 2020-2023
-              * HTHT GIS Minor, 2020
+              * 202001419-1A Course 1: GIS and RS or Geospatial Solutions
+              * 202001419-1A Course 2: Geospatial Data: Concepts, Acquisition and Management
+              * 202001419-1A Course 3: Geospatial Analysis and Interpretation
+              * HTHT GIS Minor
         - title: UI/UX Designer
           company: Sea Group
           company_url: ''
