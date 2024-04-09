@@ -1,12 +1,12 @@
 ---
-title: 13-01-2024 Joined Urban Analytics Lab, NUS as a visitng scholar!
+title: 01-2024 | Joined Urban Analytics Lab, NUS as a visitng scholar!
 #subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
 #summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Link this post with a project
-projects: []
+#projects: []
 
 # Date published
 date: '2024-01-01T00:00:00Z'
