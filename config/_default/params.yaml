@@ -109,6 +109,10 @@ extensions:
   academicons:
     enable: true
 
+marketing:
+  analytics:
+    google_analytics: 'G-FHWJ19X1FD'
+
 # Security
 
 security:
