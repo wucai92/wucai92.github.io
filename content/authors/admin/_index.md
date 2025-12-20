@@ -17,14 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ITC, University of Twente
-    url: https://www.itc.nl/
-  - name: UAL, National University of Singapore
-    url: https://www.ual.sg/
+  - name: Urban Governance and Design Thrust, Society Hub, HKUST (Guangzhou)
+    url: https://www.hkust-gz.edu.cn/
+  - name: Urban Morphology Studio
+    url: https://urbanmorphology.studio
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -39,7 +39,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Urban Analytics and Planning
+    - course: PhD in Urban Analysis and Design
       institution: University of Twente, Netherlands
       year: 2024
     - course: MSc in Smart Cities and Urban Analytics
@@ -129,5 +129,7 @@ social:
 highlight_name: true
 ---
 
-Cai Wu (吴偲) is a PhD candidate from ITC, University of Twente. With a background in architecture, urban analytics and GIS, his research aims to quantify urban morphological patterns across scales using machine learning. This encompasses analysis from vast metropolitan areas down to detailed urban plots. The goal is to explore the potential applications of these quantitative urban forms in planning and design, with a particular emphasis on integrating dynamic data such as urban mobility.
+Dr. Cai Wu is currently an Assistant Professor in the Urban Governance and Design Thrust at the Society Hub of the Hong Kong University of Science and Technology (Guangzhou) and leads the [Urban Morphology Studio](https://urbanmorphology.studio). With a background in architecture, urban analytics and GIS, he holds degrees from the National University of Singapore, University College London, and the University of Twente.
+
+Dr. Wu’s research spans the interdisciplinary fields of architecture, geographic information science, and urban informatics. He focuses on integrating data with emerging quantitative methods to understand urban forms and their relationship with urban activities, providing decision support for urban design and renewal. His team is currently recruiting PhDs, Masters, and Research Assistants.
 {style="text-align: justify;"}
