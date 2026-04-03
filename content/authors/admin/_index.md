@@ -11,30 +11,30 @@ last_name: Wu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ITC, University of Twente
-    url: https://www.itc.nl/
-  - name: UAL, National University of Singapore
-    url: https://www.ual.sg/
+  - name: Urban Governance and Design Thrust, HKUST(GZ)
+    url: https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/urban-governance-and-design/
+  - name: Urban Morphology Studio
+    url: https://urbanmorphology.studio/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Urban Morphology
-  - Street Network
-  - Urban Big Data
-  - GIS and Machine Learning
+  - Computational Urban Morphology
+  - Human-Environment Interaction
+  - Urban Network Modeling
+  - GeoAI and Urban Design
 
 # Education to show in About widget
 education:
@@ -49,46 +49,6 @@ education:
       institution: National University of Singapore, Singapore
       year: 2017
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#skills:
-#  - name: Technical
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: python
-#        icon_pack: fab
-#      - name: Data Science
-#        description: ''
-#        percent: 100
-#        icon: chart-line
-#        icon_pack: fas
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: database
-#        icon_pack: fas
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-hiking
-#        icon_pack: fas
-#      - name: Cats
-#        description: ''
-#        percent: 100
-#        icon: cat
-#        icon_pack: fas
-#      - name: Photography
-#        description: ''
-#        percent: 80
-#        icon: camera-retro
-#        icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -96,14 +56,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ivan6505@gmail.com'
+    link: 'mailto:caiwu@hkust-gz.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/CaiWUrban
-#    label: Follow me on Twitter
-#    display:
-#      header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=jdnF-JYAAAAJ
   - icon: github
@@ -118,16 +75,12 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-5578-5525
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  #- icon: cv
-  #  icon_pack: ai
-  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Cai Wu (吴偲) is a PhD candidate from ITC, University of Twente. With a background in architecture, urban analytics and GIS, his research aims to quantify urban morphological patterns across scales using machine learning. This encompasses analysis from vast metropolitan areas down to detailed urban plots. The goal is to explore the potential applications of these quantitative urban forms in planning and design, with a particular emphasis on integrating dynamic data such as urban mobility.
+Cai Wu, PhD, is an Assistant Professor in the Urban Governance and Design (UGOD) Thrust at The Hong Kong University of Science and Technology (Guangzhou), where he leads the Urban Morphology Studio. He holds degrees in architecture and urban analytics from the National University of Singapore, University College London, and the University of Twente.
+
+His research sits at the intersection of computational urban morphology, GeoAI, and data-driven urban design. He develops reproducible methods that combine geospatial data, street-view imagery, network science, and machine learning to understand how built form and human activities interact across scales, and to support evidence-based urban renewal, planning, and spatial equity.
 {style="text-align: justify;"}

@@ -22,6 +22,9 @@ main:
   - name: Experience
     url: '#experience'
     weight: 60
+  - name: Team
+    url: https://urbanmorphology.studio
+    weight: 70
 #  - name: Contact
 #    url: '#contact'
 #    weight: 60
@@ -29,8 +32,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/Resume240407.pdf
-    weight: 70
-  - name: 简历
-    url: uploads/简历240329.pdf
+    url: uploads/Resume260204.pdf
     weight: 80

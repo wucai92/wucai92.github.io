@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'The Hong Kong University of Science and Technology (Guangzhou)'
+    description: 'Cai Wu is an Assistant Professor at HKUST(GZ) working on computational urban morphology, GeoAI, street networks, and data-driven urban design.'
+    twitter: 'CaiWUrban'
   analytics:
     google_analytics: ''
     baidu_tongji: ''

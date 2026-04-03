@@ -1,6 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
+summary: 'Cai Wu is an Assistant Professor at HKUST(GZ) working on computational urban morphology, GeoAI, street networks, and data-driven urban design.'
 date: 2022-10-24
 type: landing
 
@@ -59,7 +60,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 6
       # Filter on criteria
       filters:
         folders:
@@ -163,16 +164,33 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Assistant Professor
+          company: Urban Governance and Design Thrust, HKUST(GZ)
+          company_url: 'https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/society-hub/urban-governance-and-design/'
+          location: Guangzhou
+          date_start: '2024-10-10'
+          date_end: ''
+          description: |2-
+              * Leads the Urban Morphology Studio on computational urban morphology, GeoAI, and data-driven urban design.
+              * Develops reproducible methods and tools for evidence-based urban analysis, renewal, and planning.
+        - title: Visiting Fellow
+          company: University of Glasgow
+          company_url: 'https://www.gla.ac.uk/'
+          location: Glasgow
+          date_start: '2025-06-01'
+          date_end: '2025-11-30'
+          description: |2-
+              * Conducted collaborative research on urban analytics, spatial inequality, and data-driven approaches to cities.
         - title: Visiting Scholar
           company: Urban Analytics Lab, National University of Singapore
-          company_url: ''
+          company_url: 'https://ual.sg/'
         #  company_logo: org-gc
           location: Singapore
           date_start: '2024-01-01'
-          date_end: ''
+          date_end: '2024-08-31'
           description: |2-
-              * Project: Understanding the neighbourhood's pedestrian dynamic with computer vision-based walkability and street network analytics.
-              * Supervisors: Dr. Filip Biljecki
+              * Project: understanding neighbourhood pedestrian dynamics with computer vision-based walkability and street-network analytics.
+              * Supervisor: Dr. Filip Biljecki
         - title: Assistant-in-Opleiding (AiO)
           company: University of Twente
           company_url: ''
