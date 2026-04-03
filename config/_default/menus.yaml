@@ -34,6 +34,3 @@ main:
   - name: 简历
     url: uploads/简历240329.pdf
     weight: 80
-  - name: Team
-    url: https://urbanmorphology.studio
-    weight: 90
