@@ -80,6 +80,22 @@ sections:
       # Choose a layout view
       view: list
       columns: '2'
+  - block: people
+    id: students
+    content:
+      title: Students
+      subtitle: Current PhD and MPhil students in Urban Morphology Studio
+      text: '[Meet the wider Urban Morphology Studio team](https://urbanmorphology.studio/team/).'
+      user_groups:
+        - PhD Students
+        - MPhil Students
+      sort_by: Params.weight
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: false
+      show_organizations: false
 #  - block: portfolio
 #    id: projects
 #    content:
