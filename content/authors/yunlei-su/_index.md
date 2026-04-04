@@ -5,7 +5,7 @@ last_name: Su
 role: PhD Student
 weight: 20
 user_groups:
-  - PhD Students
+  - Students
 _build:
   render: always
   list: always

@@ -5,7 +5,7 @@ last_name: Zhang
 role: PhD Student
 weight: 30
 user_groups:
-  - PhD Students
+  - Students
 _build:
   render: always
   list: always

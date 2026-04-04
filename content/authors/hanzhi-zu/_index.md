@@ -3,9 +3,9 @@ title: Hanzhi Zu
 first_name: Hanzhi
 last_name: Zu
 role: MPhil Student
-weight: 20
+weight: 120
 user_groups:
-  - MPhil Students
+  - Students
 _build:
   render: always
   list: always

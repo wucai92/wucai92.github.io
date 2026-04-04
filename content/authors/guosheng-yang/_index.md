@@ -3,9 +3,9 @@ title: Guosheng Yang
 first_name: Guosheng
 last_name: Yang
 role: MPhil Student
-weight: 10
+weight: 110
 user_groups:
-  - MPhil Students
+  - Students
 _build:
   render: always
   list: always

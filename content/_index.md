@@ -84,11 +84,13 @@ sections:
     id: students
     content:
       title: Students
-      subtitle: Current PhD and MPhil students in Urban Morphology Studio
-      text: '[Meet the wider Urban Morphology Studio team](https://urbanmorphology.studio/team/).'
+      subtitle: Current students in Urban Morphology Studio
+      text: |-
+        Urban Morphology Studio (UMS) is a research group at HKUST(GZ) focused on computational urban morphology, GeoAI, and data-driven urban design. [Visit the UMS website](https://urbanmorphology.studio/) to learn more about our research, people, and activities.
+
+        <div class="mb-4"></div>
       user_groups:
-        - PhD Students
-        - MPhil Students
+        - Students
       sort_by: Params.weight
       sort_ascending: true
     design:
