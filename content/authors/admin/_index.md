@@ -27,19 +27,19 @@ organizations:
     url: https://urbanmorphology.studio/
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I study computational urban morphology, GeoAI, and data-driven urban design, developing reproducible methods for understanding cities across scales.
 
 # Interests to show in About widget
 interests:
   - Computational Urban Morphology
-  - Human-Environment Interaction
-  - Urban Network Modeling
-  - GeoAI and Urban Design
+  - GeoAI and Explainable Urban Analytics
+  - Urban Networks and Spatial Interaction
+  - Human-Environment Interaction and Urban Design
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Urban Analytics and Planning
+    - course: PhD in Urban Analytics
       institution: University of Twente, Netherlands
       year: 2024
     - course: MSc in Smart Cities and Urban Analytics
@@ -80,7 +80,7 @@ social:
 highlight_name: true
 ---
 
-Cai Wu, PhD, is an Assistant Professor in the Urban Governance and Design (UGOD) Thrust at The Hong Kong University of Science and Technology (Guangzhou), where he leads the Urban Morphology Studio. He holds degrees in architecture and urban analytics from the National University of Singapore, University College London, and the University of Twente.
+Cai Wu is an Assistant Professor in the Urban Governance and Design Thrust at The Hong Kong University of Science and Technology (Guangzhou), where he leads the [Urban Morphology Studio](https://urbanmorphology.studio/). He holds a PhD from the University of Twente, an MSc from University College London, and a BA in Architecture (Honours) from the National University of Singapore.
 
-His research sits at the intersection of computational urban morphology, GeoAI, and data-driven urban design. He develops reproducible methods that combine geospatial data, street-view imagery, network science, and machine learning to understand how built form and human activities interact across scales, and to support evidence-based urban renewal, planning, and spatial equity.
+His research combines computational urban morphology, GeoAI, and data-driven urban design to understand how urban form and human activities interact. Using geospatial data, street-view imagery, network science, and machine learning, he develops reproducible methods and open tools for evidence-based planning, urban renewal, and spatial equity.
 {style="text-align: justify;"}

@@ -1,0 +1,34 @@
+name: Build website preview
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: preview-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.123.3'
+          extended: true
+      - name: Build production site
+        env:
+          HUGO_ENVIRONMENT: production
+        run: hugo --minify --baseURL https://wucai.me/
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: website-preview
+          path: public
+          retention-days: 7

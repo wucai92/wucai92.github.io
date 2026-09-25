@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-summary: 'Cai Wu is an Assistant Professor at HKUST(GZ) working on computational urban morphology, GeoAI, street networks, and data-driven urban design.'
+summary: 'Cai Wu leads Urban Morphology Studio at HKUST(GZ), researching computational urban morphology, GeoAI, urban networks, and data-driven urban design.'
 date: 2022-10-24
 type: landing
 
@@ -231,8 +231,8 @@ sections:
           date_start: '2016-12-01'
           date_end: '2018-06-01'
           description: |2-
-              * Transform product requirements into mock-ups and solid UI/UX design.
-              * Design data visualisation platform for restaurants' daily performance and backend operation analysis.
+              * Translated product requirements into mock-ups and UI/UX designs.
+              * Designed a data visualisation platform for restaurants' daily performance and backend operations.
         - title: Intern Urban Designer
           company: Woods Bagot
           company_url: ''
@@ -241,8 +241,8 @@ sections:
           date_start: '2015-05-01'
           date_end: '2015-08-01'
           description: |2-
-              * Comprehensive concept and field research for an urban design project in Beijing. 
-              * Concept design and modelling for polit development.
+              * Conducted concept and field research for an urban design project in Beijing.
+              * Developed concept designs and models for a pilot development.
     design:
       columns: '2'
 

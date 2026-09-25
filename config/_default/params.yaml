@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: 'The Hong Kong University of Science and Technology (Guangzhou)'
-    description: 'Cai Wu is an Assistant Professor at HKUST(GZ) working on computational urban morphology, GeoAI, street networks, and data-driven urban design.'
+    description: 'Cai Wu leads Urban Morphology Studio at HKUST(GZ), researching computational urban morphology, GeoAI, urban networks, and data-driven urban design.'
     twitter: 'CaiWUrban'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-FHWJ19X1FD'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Cai Wu. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,7 +55,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2006'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/wucai92/wucai92.github.io'
     content_dir: content
     branch: main
   avatar:
@@ -108,10 +108,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-
-marketing:
-  analytics:
-    google_analytics: 'G-FHWJ19X1FD'
 
 # Security
 
