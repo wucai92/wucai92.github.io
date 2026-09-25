@@ -42,5 +42,5 @@ tags:
 - urban function regions
 links:
 - name: URL
-  url: https://www.mdpi.com/2072-4292/14/16/3996/htm https://www.mdpi.com/2072-4292/14/16/3996
+  url: https://www.mdpi.com/2072-4292/14/16/3996
 ---

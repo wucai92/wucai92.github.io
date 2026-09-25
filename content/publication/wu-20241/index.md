@@ -6,7 +6,7 @@ authors:
 - Jiong Wang
 - Menno-Jan Kraak
 - Mingshu Wang
-date: '2024-03-01'
+date: '2024-03-28'
 publishDate: '2024-04-07T11:39:51.866671Z'
 publication_types:
 - article-journal
@@ -33,3 +33,5 @@ links:
 - name: URL
   url: https://www.mdpi.com/2220-9964/13/4/114
 ---
+
+Published on **28 March 2024**, in the April 2024 issue of *ISPRS International Journal of Geo-Information*, **13**(4), article **114**.

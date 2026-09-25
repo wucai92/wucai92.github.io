@@ -1,8 +1,9 @@
 ---
-title: 08-2025 | GSCS and ICUI 2025 participation and paper award
-summary: I presented at GSCS and ICUI 2025, where the work received the Best Paper (Third Prize) award.
+title: 08-2025 | Best Student Presentation Award at ICUI 2025
+summary: Work by Guosheng Yang and Cai Wu on urban visual heterogeneity received a Best Student Presentation Award at ICUI 2025.
 projects: []
-date: '2025-08-05T00:00:00Z'
+# The conference ran 5–8 August; use its closing day for this award retrospective.
+date: '2025-08-08T00:00:00Z'
 draft: false
 featured: false
 authors:
@@ -14,6 +15,6 @@ categories:
   - News
 ---
 
-I participated in the Global Smart Cities Summit and the 4th International Conference on Urban Informatics in 2025.
+Our work, *Urban Distinctiveness Through Multi-Scale Visual Heterogeneity: A Computational Framework for Design Perception*, by **Guosheng Yang and Cai Wu**, received a **Best Student Presentation Award** at ICUI 2025.
 
-The work presented there received the Best Paper (Third Prize) award, which was an encouraging recognition of our ongoing research on urban informatics and spatial analysis.
+The Global Smart Cities Summit and the 4th International Conference on Urban Informatics took place in Hong Kong on **5–8 August 2025**. See the [official awards list](https://www.isocui.org/icui2025/awards) and [conference information](https://www.isocui.org/icui2025).
