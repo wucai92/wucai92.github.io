@@ -80,9 +80,7 @@ social:
 highlight_name: true
 ---
 
-Cai Wu is an Assistant Professor in the Urban Governance and Design (UGOD) Thrust, Society Hub, at The Hong Kong University of Science and Technology (Guangzhou), where he leads the [Urban Morphology Studio](https://urbanmorphology.studio/). He holds a PhD from the University of Twente, an MSc in Smart Cities and Urban Analytics from University College London, and a BA in Architecture (Honours) from the National University of Singapore.
+Cai Wu is an Assistant Professor in the Urban Governance and Design Thrust at The Hong Kong University of Science and Technology (Guangzhou), where he leads the [Urban Morphology Studio](https://urbanmorphology.studio/). He holds a PhD from the University of Twente, an MSc from University College London, and a BA in Architecture (Honours) from the National University of Singapore.
 
-His research connects computational urban morphology, GeoAI, and data-driven urban design. He combines geospatial data, street-view imagery, network science, and machine learning to understand how urban form and human activities interact across scales. His work develops reproducible methods and open tools that support evidence-based urban planning, renewal, and spatial equity.
-
-Recent research examines urban visual heterogeneity and perception, interpretable graph learning for commuting flows, green-space patterns under urban expansion, and human behavior in virtual urban environments. He supervises doctoral and research master's students working across urban analytics and design.
+His research combines computational urban morphology, GeoAI, and data-driven urban design to understand how urban form and human activities interact. Using geospatial data, street-view imagery, network science, and machine learning, he develops reproducible methods and open tools for evidence-based planning, urban renewal, and spatial equity.
 {style="text-align: justify;"}
